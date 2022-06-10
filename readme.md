@@ -1,10 +1,4 @@
-
-- Display block vs inline
-
-
-
-### imagem bola de cristal
-https://gist.githubusercontent.com/maykbrito/0acdf4ce9198# HTML
+HTML
 - HyperText Markup Language
 
 - Hiper Texto?
